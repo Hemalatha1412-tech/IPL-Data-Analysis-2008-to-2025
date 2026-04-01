@@ -49,15 +49,14 @@ A complete data analysis of **18 IPL seasons**, **1,169 matches**, and **278,000
 
 ```
 ├── IPL_Analysis.ipynb        ← Main analysis notebook (10 analyses)
-├── ipl_analysis_starter.py   ← Starter code for the 5 core analyses
-├── ipl_rcb_fans_extra.py     ← RCB fan loyalty analysis code
-├── export_for_powerbi.py     ← Exports clean CSVs for Power BI
-├── IPL_Beautiful.pbix        ← Power BI dashboard file
+├── IPL.pbix                  ← Power BI dashboard file
 ├── page1_overview.png        ← Dashboard screenshot — Overview
 ├── page2_batting.png         ← Dashboard screenshot — Batting
 ├── page3_bowling.png         ← Dashboard screenshot — Bowling
 ├── page4_rcb.png             ← Dashboard screenshot — RCB Special
 └── README.md                 ← This file
+└── IPL(CSV)                  ← Dataset
+
 ```
 
 ---
@@ -106,7 +105,7 @@ RCB played **270 matches** with a 48.9% win rate — never winning a title for 1
 
 This project was built as part of my data analyst portfolio while preparing for international job applications. It covers the full analyst workflow: raw data → cleaning → analysis → visualisation → storytelling.
 
-**Connect with me on LinkedIn:** [Your LinkedIn URL]
+**Connect with me on LinkedIn:** www.linkedin.com/in/hemalatha-s-b572a3292
 
 ---
 
